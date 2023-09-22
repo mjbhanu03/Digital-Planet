@@ -14,7 +14,7 @@ include('./html/htmls.php');
 ?>
 
 <!-- Main Div -->
-<div class="w-full p-4">
+<div class="w-full p-4 ">
     <!-- First Content Div -->
     <div class="grid  w-full space-y-5 p-1">
 
